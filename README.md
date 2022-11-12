@@ -33,3 +33,10 @@ Todo aquivo PHP terá a extensão .php
 -Os arquivos PHP precisam ser executadosá partir do servdor, como se voce estivesse acessando pela internet
 -Para XAMPP, o local aonde devemos colocar nossos arquivos é em `c:\xampp\htdocs\site\index.php´
 -Para executar os arquivos PHP. precisamos requisita-los á partir do navegador digitando `https://localhost/`. Exemplo: `https://localhost/site/index.php`
+
+### Variaveis
+-variavel é um espaço na memória que damos um nome para armazenar algum valor
+-o PHP e case-sensitive, significa que ele diferencia maiúsculas de minúsculas, ou seja, Nome é diferente de nome
+-o nome de uma variavel deve ser significatico de acordo com seu valor. Exemplo: para uma variavel que vai armazenar a idade de uma pessoa eu coloco o nome da variavel de $idade
+-No PHP toda variavel se inica com $
+-Não ultilize caracteres especiais, espaços ou acentos para nome de variaveis. Alguns deles até funcionam, porém e recomendado escrever nomes de variaveis de forma simples. Exemplo: ao invés de endereço para o nome de uma variavel ultilize $endereco sem o 'Ç'
