@@ -40,3 +40,17 @@ Todo aquivo PHP terá a extensão .php
 -o nome de uma variavel deve ser significatico de acordo com seu valor. Exemplo: para uma variavel que vai armazenar a idade de uma pessoa eu coloco o nome da variavel de $idade
 -No PHP toda variavel se inica com $
 -Não ultilize caracteres especiais, espaços ou acentos para nome de variaveis. Alguns deles até funcionam, porém e recomendado escrever nomes de variaveis de forma simples. Exemplo: ao invés de endereço para o nome de uma variavel ultilize $endereco sem o 'Ç'
+
+### Tipos de dados
+-Os valores em Php podem ser divididos entre os tipos:
+    -String: todo valor que estiver entre aspas é uma string, ou seja, um texto. Exemplo: 36
+    -Float ou Double: todo número decimal. Exemplo: 1.83
+    -boolean: valor de verdadeiro(true) ou falso(false)
+
+### Operadores aritiméticos
+- + : adição
+- - : subtração
+- * : multiplicação
+- / : divisão
+- % :resto da divisão, operador de módulo]
+- ** : exponenciação
